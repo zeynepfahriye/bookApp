@@ -1,0 +1,98 @@
+[
+    {
+        "id":"1",
+        "bookName":"Cehenneme Övgü",
+        "writerName":"Gündüz Vassaf",
+        "rating":"4.6",
+        "images":"../assets/images/1.jpeg",
+        "readed":"11k",
+        "pageNo":"279",
+        "languge":"Türkçe",
+        "gendre":["Felsefe-Düşünce","Roman"],
+        "description":"Bazı eleştirmenlerin *şeytanın avukatı* sıfatını yakıştırdıkları Gündüz Vassaf’ın *gözden geçirilmiş ve genişletilmiş yeni baskısı*yla sunduğumuz Cehenneme Övgü’sü, içimizde büyütüp yaşattığımız küçük ‘totaliter dünyalar’ımızı afişe ediyor, daha doğrusu ‘yüzümüze vuruyor’. Totalitarizmin -anne karnındaki bebeğin beslenmesi gibi- bireyle toplumu bağlayan göbek bağıyla semirdiğini, hayata ilişkin algılarımızı ve kimi dayatılan kimisini de gönüllü olarak kabul ettiğimiz kavramları irdeleyerek gösteriyor. Cehenneme Övgü, yazarın kendiyle hesaplaştığı, herkesi de hesaplaşmaya çağıran, hatta kışkırtan bir kitap."
+    },
+    {
+        "id":"2",
+        "bookName":"Dönüşüm",
+        "writerName":"Frans Kafka",
+        "rating":"4.8",
+        "images":"../assets/images/2.jpeg",
+        "readed":"15k",
+        "pageNo":"",
+        "languge":"Türkçe",
+        "gendre":["Fantastik","Uzun Hikaye","Absürd Kurgu"],
+        "description":"Dönüşüm adlı anlatı, yazarın anlatım sanatının gerçek anlamda doruklarına ulaştığı bir yapıttır. Küçük burjuva çevrelerindeki tiksindirici aile ilşkilerini en ince ayrıntılarına kadar irdeleyen anlatı, aynı zamanda genelde toplumun kalıplaşmış, işlevini çoktan yitirmiş olan akışına bilinç düzeyinde başkaldıran bireyin tragedyasını çarpıcı biçimde dile getirir. Gregor Samsa’nın başkalaşması, bir böceğe dönüşmesi, salt bir çarkın kaskatı dişlisi, eleştirmeyen, ama yalnızca boyun eğen bir toplum teki olmaktan çıkma anlamı taşır; böylece böcekleşen’in yazgısı, elbet toplumca dışlanmaktır."
+    },
+    {
+        "id":"3",
+        "bookName":"Genç Werther'in Acıları",
+        "writerName":"Goethe",
+        "rating":"5.0",
+        "images":"../assets/images/3.jpeg",
+        "readed":"30k",
+        "pageNo":"128",
+        "languge":"Türkçe",
+        "gendre":["Roman","Otobiyografik Kurgu"],
+        "description":"Evrensel boyutlara ulaşmış ünüyle bugün dünya edebiyatının en büyük yazarlarından biri sayılan Goethe, henüz yirmi beş yaşındayken yazdığı Genç Werther’in Acıları’nda, kısa bir süre önce Charlotte adlı genç bir kadınla yaşadığı mutsuz ilişkiden yola çıkmıştı. Edebiyat dünyasına karşılıksız aşk acısıyla intihara sürüklenen “romantik kahraman”ı armağan eden bu büyüleyici mektup-roman, şiirselliği ve yaşama tutkulu bakışıyla okurları mıknatıs gibi kendine çekmişti. Almanya’da dönemin gençliğini etkisi altına alan romanın birçok kişinin intiharına neden olduğu, Werther’in giydiği mavi frak, sarı yelek ve çizmelerin o yıllarda moda haline geldiği, Napoléon’un bile kitabı sürekli yanında taşıdığı söylenir.Son derece duyarlı ve tutkulu bir genç ressam olan Werther’in düşsel dostu Wilhelm’e yazdığı mektuplardan oluşan Genç Werther’in Acıları, edebiyatta akılcılığın yerini alan duygusallığın bir başyapıtıdır"
+    },
+    {
+        "id":"4",
+        "bookName":"Godot'yu Beklerken",
+        "writerName":"Samuel Beckett",
+        "rating":"3.0",
+        "images":"../assets/images/4.jpeg",
+        "readed":"5k",
+        "pageNo":"135",
+        "languge":"Türkçe",
+        "gendre":["Trajikomedi","Absürd Kurgu"],
+        "description":"Oyunda, varoluş sancıları çeken Vladimir ve Estragon adlı karakterler yer alr. Bu karakterlerin yolları kesişir, birbirleriyle iletişim kurmaya çalışırlar. Eylemsizliklerine yenik düşünce, Godot adında ne olduğu bilinmeyen bir kimse ya da şeyi beklemeye başlarlar."
+    },
+    {
+        "id":"5",
+        "bookName":"Hayvan Çiftliği",
+        "writerName":"George Orwell",
+        "rating":"3.7",
+        "images":"../assets/images/5.jpeg",
+        "readed":"9k",
+        "pageNo":"152",
+        "languge":"Türkçe",
+        "gendre":["Siyasi-Hiciv","Uzun Hikaye","Distopik Kurgu"],
+        "description":"Bir çiftlikte yaşayan hayvanlar, kendilerini sömüren insanlara başkaldırıp çiftliğin yönetimini ele geçirir. Amaçları daha eşitlikçi bir topluluk oluşturmaktır. Aralarında en akıllı olan domuzlar, kısa sürede önder bir takım oluşturur; ama devrimi de yine onlar yolundan saptırır."
+    },
+    {
+        "id":"6",
+        "bookName":"Huzursuzluğun Kitabı",
+        "writerName":"Fernando Pessoa",
+        "rating":"4.2",
+        "images":"../assets/images/6.jpeg",
+        "readed":"3k",
+        "pageNo":"675",
+        "languge":"Türkçe",
+        "gendre":["Roman","Biyografi","Otobiyografi"],
+        "description":"Yazar, okuruna kendi düşüncelerini bir dış-kimlik olarak yarattığı Soares'in günlüğünden aktarıyor. Ait olmadığı işinden ve geçmişinden sıyrılmak adına sürekli yazı yazan başkahraman, yaşamına ait huzursuzluk duyduğu tüm olguları bir bir kağıda döküyor."
+    },
+    {
+        "id":"7",
+        "bookName":"Küçük Prens",
+        "writerName":"Antoine de Saint-Exupéry ",
+        "rating":"5.0",
+        "images":"../assets/images/7.jpeg",
+        "readed":"20k",
+        "pageNo":"96",
+        "languge":"Türkçe",
+        "gendre":["Fabl","Çocuk Edebiyatı","Uzun Hikaye"],
+        "description":"Küçük Prens, kendi galaksisinde, kendi dünyasında tek bir gül ile yaşayan bir Küçük Prens'in başka galaksileri gezmek için tek gülünü tek başına bırakıp yolculuk yapmasını anlatır. Ancak bu yolculuk esnasında vurgulamak istediği şey 'büyümek'tir."
+    },
+    {
+        "id":"8",
+        "bookName":"Olağanüstü Bir Gece",
+        "writerName":"Stefan Zweig ",
+        "rating":"3.1",
+        "images":"../assets/images/10.jpeg",
+        "readed":"20k",
+        "pageNo":"80",
+        "languge":"Türkçe",
+        "gendre":["Kurgu"],
+        "description":"Olağanüstü Bir Gece, seçkin bir burjuva olarak rahat ve tasasız varoluşunu sürdürürken giderek duyarsızlaşan bir adamın hayatındaki dönüştürücü deneyimin hikâyesidir. Sıradan bir Pazar gününü at yarışlarında geçirirken, belki de ilk kez burjuva ahlakından saparak “suç” işler."
+    }
+]
